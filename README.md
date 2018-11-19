@@ -4,7 +4,7 @@
 
 SUJET D'UN TEST D'EMBAUCHE:
 
-L'objectif est de créer un carnet d'adresse pour marsupilami(animal fictif) sous symfony à savoir:
+L'objectif est de créer un carnet d'adresse pour marsupilami (animal fictif) sous Symfony à savoir:
 
 (Inscription/Connexion/Déconnexion) du marsupilami par login/mot de passe (FOSUserbundle)
 (Afficher/Modifier) ses informations (age / famille / race / nourriture)
